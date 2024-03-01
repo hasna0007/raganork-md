@@ -56,7 +56,7 @@
         "BOT_INFO": {
             "description": "Name, image, owner and other details in menu (seperate with comma)",
             "required": true,
-            "value":"Raganork,SKL11,91123456789,https://i.imgur.com/B2YWSLk.jpg"
+            "value":"𝐂𝚫𝚻 𝐒𝚸𝐘,𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷,917034167123,https://i.imgur.com/jYZsEpv.jpeg"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
